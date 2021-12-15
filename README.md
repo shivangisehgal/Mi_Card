@@ -1,16 +1,6 @@
-# mi_card
+# MiCard
 
-A new Flutter project.
+An app that serves as a personal business card. 
+With this project, I learnt how to work with Layouts and Cards in Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/83656526/146169347-0b43d7ae-2187-4c24-afa5-152ef44c06a8.png" height="800">
